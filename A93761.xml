@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to both houses of Parliament.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93761</idno>
+            <idno type="STC">Wing S5150</idno>
+            <idno type="STC">ESTC R184567</idno>
+            <idno type="EEBO-CITATION">45578455</idno>
+            <idno type="OCLC">ocm 45578455</idno>
+            <idno type="VID">172370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to both houses of Parliament.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Author and imprint suggested by Wing.</note>
+                  <note>Imperfect: edges torn and tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:172370:1" rendition="simple:additions"/>
+            <head>A Word to both Houſes of <hi>PARLIAMENT.</hi>
+            </head>
+            <p>THERE is a very great <hi>Malignity</hi> (conſidering which, ſee <hi>Rom.</hi> 1.29. for it ariſes from all <hi>
+                  <g ref="char:V">Ʋ</g>nrighteouſneſs, Covetouſneſs, Maliciouſneſs, Envy, Murder, Debate, Deceit,</hi> there men<g ref="char:EOLhyphen"/>tioned) when people will not Obey God, and they refuſe to come into the way of his Commandments. And this is ſo much the more provoking, and worthy of ſorer Puniſh<g ref="char:EOLhyphen"/>ment, by much the longer and more continued it is. So that, Let none hence think that we recede or go aſide from what we have received of God, nor do we hereby make that part of his Word (which is committed to our Miniſtration) low and precarious, Nor yet do <hi>We uſe it as an artifice or trick to get them off ſooner from their Rebellion,</hi> when we make that Propoſal and Overture of a <hi>General Act of Oblivion and Indemnity</hi> to all the Workers of Iniquity (See my Books Entituled, <hi>Things Plain and Weighty,</hi> &amp;c. <hi>The Myſtery of Iniquity ſomewhat laid open,</hi> &amp;c.) That they ſhall be every one forgiven for whatever They have done as to Man's Puniſhment. Which offer they think that we therefore make, becauſe we have not Power or Numbers to ſubdue them. But this is to ſuppoſe and talk after the manner of Men; for <hi>ſtrong is the Lord God Almighty who will Judge them.</hi> Nevertheleſs be<g ref="char:EOLhyphen"/>cauſe Sentence againſt an evil Work is not executed ſpeedily, therefore the Hearts of the Sons of Men are fully ſet in them to do evil, and they do in the mean while take up Proud <hi>Pharaohs</hi> Method and Reſolu<g ref="char:EOLhyphen"/>tion, as to lay more Burden and Oppreſſion on the true Iſraelites (that they may Suffer if they will not ſin, and caſt in their Lot among us) and they think or ſay, <hi>Let us not regard vain words,</hi> Exod. 5.9. But they are not <hi>vain Words;</hi> for though the Kingdom of God is <hi>in Word,</hi> and is called the <hi>Weakneſs of God,</hi> 1 Cor. 1.25. It is alſo <hi>in Power</hi> and in the <hi>Holy Ghoſt</hi> and in <hi>much Aſſurance</hi> that it ſhall be all found me. For whatever ſome would imagine or deſire, not one tittle thereof ſhall fail until all be fulfilled. Hereby is evident and alſo ſeen that God is ſtronger; for He doth continually ſend forth his Meſſenger u<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on the Pale Horſe whoſe name is <hi>Death;</hi> which notwithſtanding all their Multitude and Power doth<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eſt them ſeverally to bring them before his Judgment Seat. <hi>Is not this laid up in ſtore with me <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſealed up among my treaſures? To me belongeth Vengeance and Recompence: their foot ſhall ſlide in du<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time</hi> (obſerve that) <hi>for the day of their Calamity is at hand, and the Things that ſhall come upon them, make haſte,</hi> Deut. 32.34, 35. <hi>Dearly beloved, Avenge not your ſelves, but rather give place unto Wrath, for it is written, Vengeance is mine, I will repay, ſaith the Lord,</hi> Rom. 12.19. In theſe things Man hath nothing to do to take Vengeance or proceed to Puniſhment, and yet if any ſhould be ſo Pre<g ref="char:EOLhyphen"/>ſumptuous as to intermeddle with this ſealed Treaſure and Prerogative of Almighty God, He will again recompence to ſuch Perſon or Perſons accordingly.</p>
+            <p>So that whereas the People of this Nation did call their <hi>King</hi> to Account, and puniſh him with Depri<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion for thoſe unlawful things, He is ſuppoſed and charged to have committed (which yet by the La<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God and of this Realm they ought not to have done) I thought at that very time He was driven a<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from his Kingdom; That this Act of theirs would ſomewhat take off and leſſen from what He <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unto in the Future Account, in that God would ſo over-rule this Malice and Rebellion of M<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to change it into a Temporal Chaſtiſement and Puniſhment of his Iniquity if He hath <hi>accepted</hi> it as ſuch <hi>Levit.</hi> 26.41. As indeed to live in outward Mirth and Recreations, or to ſeek to recover his Kingdom again by Blood, is not conſiſtent with that ſtate of Humiliation and Waiting on the Lord, He ſhould have been in all along and He ſhould be in yet. Our God doth once more ſeem to ſhew forth th<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſhedding of Blood is not his Way and Method of bringing back his Anointed, as appears ſomewhat b<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the late Victory had over the <hi>French Fleet.</hi> But if ſtill God is pleaſed <hi>to deviſe other means that h<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> baniſhed be not expelled from him,</hi> 2 Sam. 14.14. and He <hi>cauſe Judgment to return to Righteouſneſs</hi> And this be done not by <hi>Power,</hi> nor by <hi>Might,</hi> but by his <hi>Spirit</hi> and the Manifeſtation of his <hi>Truth</hi> (which every Son and Daughter of God ought to ſtrive to the utmoſt that it go forth continually; and every Soul that will not yield Obedience unto it, ſhall be Miſerable for ever) Here again great heed is to be taken that the laſt Errour be not like unto the firſt, for the <hi>Wrath of Man worketh not the Righteouſneſs of God,</hi> and therefore this hath nothing to do or inflict. And though our Nature, as it is Corrupt, may
+<pb n="2" facs="tcp:172370:2" rendition="simple:additions"/>meditate of Vengeance, and as it is wiſe according to the Fleſh. It may think ſome Puniſhment neceſſa<g ref="char:EOLhyphen"/>ry as to Future Security and Prevention of the like Things; yet the Language of Faith and the Spirit of the knowledge and fear of the Lord ſaith on this wiſe, that the more We let alone and refrain from theſe Men, they will meet a more ſevere Judgment from the Lord, and there can be no ſuch ſure Eſtabliſhment for the time to come as by <hi>Righteouſneſs,</hi> and to Order it <hi>with Judgment and with Juſtice,</hi> according to the Rules and Directions of God's Word.</p>
+            <p>If any part hereof doth ſeem ſomewhat ſtrange or unintelligible, ſo may any any Truth when it is firſt brought to our ſight and apprehenſion; or when that is throughly and clearly manifeſted, which was but imperfectly and confuſedly Thought of before.</p>
+            <div type="part">
+               <head>A Word to the Members of the <hi>Privy Council,</hi> as they do Sit to Adviſe and give Orders in Mat<g ref="char:EOLhyphen"/>ters of <hi>War.</hi>
+               </head>
+               <p>It is written, that after <hi>Herod</hi> killed <hi>James, He proceeded further to take</hi> Peter <hi>alſo,</hi> Acts 12.2, 3. and of one who <hi>ſtrengthened himſelf in his Wickedneſs,</hi> Pſal. 52.7. Which is done only by committing the ſeveral ſucceſſive and repeated Acts thereof, for thus they are the more confirmed and hardened, yet and encouraged in an evil Matter. There is in Men by Nature an awful Apprehenſion of God; and they are at firſt fearful to offend againg him; But when they ſee others provoke him and no harm happen un<g ref="char:EOLhyphen"/>to them; Yea commonly Theſe <hi>
+                     <g ref="char:V">Ʋ</g>ngodly do proſper in the World, They increaſe in Riches,</hi> then they take heart by little and little to Sin againſt him; eſpecially if they find no hurt upon themſelves, as preſent<g ref="char:EOLhyphen"/>ly they do not, and when they are ſome what habituated and accuſtomed to it, They go on to Tranſgreſs more and more. As it is ſaid in the Proverb, <hi>Over Shoes, over Boots,</hi> when once they are throughly in, they think that muſt and they do go on in the ſame. When an Army is once blooded (as we ſay) then they are more deſperate and cruel, and they having been uſed to ſo much Murther already, they do not refrain from any kind of Slaughter. This ſeems to be the very Reaſon why at this day they do not ceaſe from, but they go on ſtill in the <hi>Proſecution of the War,</hi> notwithſtanding it hath been declared unto them that the <hi>Lord will make Inquiſition for Blood,</hi> Pſal. 9.12. And He will require at the hands of ſuch (who have the outward Power to proclaim War or treat of Peace) <hi>the life of every man</hi> Gen. 9.5. which hath been already, or ſhall yet be loſt in theſe unneceſſary Wars. For ſo they are in as much as they might have been avoided at firſt, and even now, or at any time an End may be put unto them. Nevertheleſs Our chief Men and Rulers do not regard the Word of God, nor what is here truly alledged from thence concerning the Future Account themſelves muſt give for the ſame, but they go on ſtill in their own ways after their own Wiſdom and Will, and they think or ſay, We will venture the Conſequent thereof. Some of them know that <hi>their own heart is diſobedient to the Law of God in other things,</hi> and ſo they are as it were <hi>blinded</hi> and do not throughly underſtand what this means; Others brave it off with a high hand of Pre<g ref="char:EOLhyphen"/>ſumption, Contempt and Diſobedience.</p>
+               <p>It is a ſad and marvellous thing to conſider, that now <hi>The Sword, the Sword is drawn</hi> (the Holy Ghoſt <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th twice Repeat it, becauſe of the continuance and ſucceſſion thereof) <hi>for Slaughter it is fourbiſhed, to <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſume becauſe of the glittering: Whiles they ſee Vanity unto thee, whiles they Divine a Lye unto thee, to <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ing thee upon the Necks of them that are ſlain of the Wicked, whoſe day is come, when their Iniquity <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ll have an End,</hi> Ezek. 21.29. This again is to be applied to our Biſhops, Prieſts and Deacons, and to the other Writers and Teachers; for (theſe exactly like the falſe Prophets there intended) do ſute and mo<g ref="char:EOLhyphen"/>del their Doctrine and Diſcourſe (which they deliver in their Pamphlets, Sermons and Perſonal Conver<g ref="char:EOLhyphen"/>ſation) according to the Corrupt Will and Doings of the <hi>Rich and Mighty People.</hi>
+               </p>
+               <p>But now be it known unto you all (which yet ye <hi>will not believe, though a Man declare it unto ye</hi>) That God hath ſent forth a Word and publiſhed a Truth by his Servant, <hi>Richard Stafford,</hi> which if through<g ref="char:EOLhyphen"/>ly underſtood and univerſally received: It would <hi>cauſe the Sword to return into his Sheath,</hi> Ezek. 21.30. and <hi>preſerve Life,</hi> Gen. 45.5. according to that Expreſſion of the Patriarch. God doth ſend out his Truth by ſome Inſtrument or other to <hi>ſave the lives,</hi> verſ. 7. of thoſe who are not yet killed. Now in that Caſe if they had <hi>Impriſoned Joſeph</hi> a ſecond time for Prognoſticating evil Things to their Country, and if they had given no heed to his Words, then all, or moſt of the <hi>Egyptians</hi> had periſhed in the ſeven Years of Famine. <note place="margin">Mark this well.</note> But this the Heathen did not do, whereas contrariwiſe the People of this Generation and Nation have done both with Me, for when they ought to have obeyed the <hi>Truth of God,</hi> which I wrote down and publiſhed, They did by the Inſtigation of the Dev<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:172370:2"/>caſt me into Priſon for the ſame. And thus, <hi>They are of their Father the Devil, and the Luſts of their Father they will do</hi> (Obſerve that) <hi>He was a Murtherer from the beginning, and abode not in the Truth, becauſe their is no Truth in him: When He ſpeaketh a Lye, He ſpeaketh of his own, for He is a Lyer, and the Father of it,</hi> John 8.44. For the making and averring of a down right Lye, was the Pre<g ref="char:EOLhyphen"/>tence whereby they held Me almoſt Eight Months in <hi>Bethlehem-Hoſpital.</hi> During all which time I was for a <hi>Stone of Stumbling, and for a Rock of Offence to both the Houſes of</hi> England; <hi>for a Gin and a Snare to the Inhabitants of</hi> London; God permitting it ſo to be for a Proof and Tryal, whether They could know and put a difference between the <hi>certainty of the Words of Truth,</hi> and the Imaginations of a diſ<g ref="char:EOLhyphen"/>ordered Underſtanding. But it was therefore thus pervertly done with Me of ſet purpoſe, <hi>That the Re<g ref="char:EOLhyphen"/>ſidue of the People who are Men of War might be conſumed, becauſe they Obeyed not the Voice of the Word of the Lord.</hi> And then by putting Me down into a dark lowermoſt Room, That the <hi>Sound</hi> and <hi>Voice</hi> of my <hi>Words</hi> ſhould not be heard diſtinctly and clearly, was that Scripture fulfilled? <hi>It caſt down the Truth to the Ground, and it Practiſed and Proſpered,</hi> Dan. 8.12. Which word <hi>Proſper</hi> (though it is harped upon ſo mightily, and in their way of <hi>Blaſphemy</hi> and <hi>evil Speaking</hi> aſcribed to God's Bleſſing, wherein <hi>they think him to be altogether ſuch an one as themſelves,</hi> Pſal. 50.21.) imports to be further enabled to ſhed more <hi>Blood.</hi> For who gets the Victory, but he that kills moſt? and then by committing further Sin and Tranſgreſſion, They do only heap upon themſelves more Guilt, ſad Account and Miſery for the laſt days. <hi>Shall the Sword devour for ever? know We not it will be bitterneſs in the End?</hi>
+               </p>
+               <p>Now the <hi>Sword</hi> is as certainly a Judgment of God as the Fire, Plague or Famine. When a Fire is bro<g ref="char:EOLhyphen"/>ken out, People do whatever lies in their power to extinguiſh it again as ſoon as they can. They provide againſt a Famine, and ſeek Remedies for Prevention or Cure of the Plague. But wherefore do they not in like manner endeavour to ſtop the People from purſuing to follow their Brethren and Fellow-Creatures, and to cauſe the <hi>drawn Sword to be put up,</hi> and that the <hi>Grievouſneſs of War might ceaſe.</hi> The Reaſon of this great Diverſity may be hence conceived and underſtood, becauſe <hi>Satan</hi> (the Executioner of God's Wrath and Judgments) doth here make Men themſelves the Inſtruments for carrying on the Deſtruction of one another; and in order to that he doth inſtil ſuch and ſuch things into the Minds of Men to the contrary.</p>
+               <p>And whereas ſome ſay, <hi>Let it alone till that day comes,</hi> or we <hi>will venture the Conſequent thereof;</hi> Would ye know ye vain deceivers of your own ſelves! That day will as certainly come, as it is certain that ye now live or ſhall one day die. There is no great daring in all this; for through their Ignorance and Unbelief every Perſecutor, Oppreſſor, Murtherer, Robber; Yea all the Sinners and Tranſgreſſors thoughout the Earth, do run the venture of their own Damnation. But I muſt tell ye all in ſober truth and ſadneſs, That this is the moſt dreadful Adventure in the World for any one to run, either God muſt love a Lier, or thoſe that do ſuch and ſuch things ſhall go into Hell. They might as ſafely throw them<g ref="char:EOLhyphen"/>ſelves into the Fire to try if it will not burn; for our God is a conſuming Fire, and ſo He will at length appear to <hi>devour his Adverſaries.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A Word to all Soldiers.</head>
+               <p>There are many People who fulfil the Scriptures when they know not that they do ſo; and even whilſt they Act perverſly againſt God and diſobedient to his Law; It comes ſo upon them according as He hath <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re ſpoken of in his Word. As by thoſe at this day who are employed in carrying on the War, It is found <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what is written, <hi>And thou Son of Man, thus ſaith the Lord God, ſpeak to every feathered Fowl and to every Beaſt of the Field, Aſſemble your ſelves and come, gather your ſelves on every ſide to my Sacrifice that I do Sacrifice for you, even a great Sacrifice upon the Mountains of Iſrael, that ye may eat fleſh and drink blood: Ye ſhall eat the fleſh of the mighty, and drink the the Blood of the Princes of the Earth, Ezek.</hi> 39.17, 18. <hi>For thus ſaith the Lord God of Iſrael unto me, Take the Wine cup of this fury at my <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nd, and cauſe all Nations, to whom I ſend thee, to drink it. And they ſhall drink, and be moved, and be MAD, becauſe of the Sword that I will ſend among them,</hi> 25.15, 16. <hi>For the Indignation of the Lord is upon all Nations, and his Fury upon all their Armies: He hath utterly deſtroyed them, he hath delivered them to the ſlaughter. Their ſlain ſhall be caſt out, and their ſtink ſhall come up out of their Carcaſes, and the Mountains ſhall be melted with their Blood,</hi> Iſa. 34. 2, 3. The Kings, Princes, and Rulers of the Earth do not Read and Conſider throughly of all this, as they are raiſing Men, making Pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tions for War, and forming out their Camps. <hi>Therefore I will number you to the Sword, and ye ſhall <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>w down to the ſlaughter,</hi> Iſa. 65.12. For ſo is the Eternity, Preſcience and Omniſcience of Almigh<g ref="char:EOLhyphen"/>ty God, that He ſpeaks of as already paſt what is yet to come; And He knows before hand thoſe Perſons
+<pb n="4" facs="tcp:172370:3"/>by their Names, with the other Circumſtances of Time, Place and Manner who have been already, and ſhall yet be killed in War. <hi>And they ſhall go forth, and look upon the Carcaſes of the Men that have tranſgreſſed againſt me: and they ſhall be an abhorring to all fleſh,</hi> Iſa. 66.24. The Prophet here ſeeme to allude unto a Field after a pitcht Battel hath been Fought therein; where is to be ſeen a great number of Corpſes every way mangled and defiled with Blood and Excrements, which cauſe a ſtink and noyſome<g ref="char:EOLhyphen"/>neſs and then they are but little weak vile Bodies made of dirt and clay and covered over with that ghaſtly look Death hath caſt upon them; All this put together raiſes an <hi>Abhorring.</hi> And this happens unto them of both ſides, as to the Cauſe and Occaſion of their Fighting and Murdering one another, becauſe they have <hi>tranſgreſſed againſt the Lord.</hi>
+               </p>
+               <p>As commonly the Actors herein are trained on, diſciplined and led blindly to this kind of End by <hi>groſs Ignorance of the Things of God, Vain Swearing, Whoredom, Drunkenneſs, Pride, Revenge</hi> and <hi>Quar<g ref="char:EOLhyphen"/>relling:</hi> Which do more chiefly abound in them than in other People. For as throughout the whole Book of the Lord War is let forth by way of his <hi>Indignation.</hi> Iſa. 34.2. upon the Inhabitants of the Earth; ſo his reaſonable Creatures would not willingly make choice of this kind of Employment, unleſs ſuch as are given up to theſe or the like Sins and Abominations.</p>
+            </div>
+            <div type="part">
+               <head>Another ſhort Warning to him hereafter Named.</head>
+               <p>Whereas it is ſaid in Page 6 of my Printed Book, Entituled, <hi>The Maſtery of Iniquity ſomewhat l<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Open, &amp;c.</hi> That though God had rejected <hi>Saul</hi> from that day forward (ſee 1 <hi>Sam.</hi> 15.26.28.) in which <hi>Samuel</hi> ſpake after this manner; Yet he continued King over all Iſrael until the day in which he was ſ<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in the Battel againſt the <hi>Philiſtines.</hi> And therefore from what is there further ſaid and alledged, <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lords and Counſellors, if they be his real Friends, ſhould even weeping beſeech (whom ye call) K<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>William,</hi> Yea, Thoſe near about him ſhould take hold of the Skirt of his Garment, as not to ſuffer <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to go out any more to Battel, nor adventure himſelf therein by Sea or Land, leaſt it ſhould be not <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with the certain hazard, but yet greater danger of his Life. For it is ſaid in the Proverb, <hi>The Pitcher <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> not go ſo often to the Well but it is broken at laſt;</hi> and Himſelf may learn by the Examples of <hi>Schom<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Walker,</hi> and ſeveral others of his own Knowledge and Experience (who eſcaped as many near immi<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Dangers as ever he did, and yet were at laſt killed in War,) That the <hi>Sword devoureth one as well as other,</hi> and the Bullets fly promiſcuouſly amongſt them all: and therefore he only is ſafe who doth meddle with nor come near them. And here if it ſhould ſo happen (whereof He is again hereby wa<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> As He hath hitherto lived therein, ſo He would die in his Sin and Iniquity: But rather let him co<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Repentance, and ſeek for Peace only by <hi>Righteouſneſs,</hi> (See <hi>Pſal.</hi> 72.3. the Bible Tranſlation, &amp; <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 7.2.) for there is no other way under Heaven, whereby we may come to it.</p>
+               <p>In this Caſe it is thought that it is vain to give Warning; For ſay what we will, <hi>The Deſtiny wh<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> they are Worthy will bring them to their End;</hi> and as <hi>Joſephus</hi> the Hiſtorian ſaith, <hi>Deſtiny is ſuch a <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> which the Wiſeſt Man cannot avoid:</hi> But certain I am, it is not ſo much their <hi>Deſtiny,</hi> as their and their <hi>Ignorance,</hi> and their <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Folly,</hi> which lead them. For the foregoing Things are manifeſtly in<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> own Power, as in the preſent Inſtance, He (of whom we ſpeak) may go out to War, or He may go out: He may <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>break off his Sins by Righteouſneſs,</hi> and thus <hi>lengthen,</hi> yea ſecure his own Tranq<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> if He will.</p>
+               <p>The Wrong getting and Unjuſt keeping of an Earthly Kingdom, or of the greateſt Worldly Profit few Months or Years longer, cannot be a ſufficient Compenſation for the Loſs of Heaven, and falling Hell for all Eternity.</p>
+               <p>Moſt of this Teſtimony was finiſhed <hi>March</hi> 25. 1692. and if it had then been made known unto and Obeyed by them whom it doth more eſpecially Concern, the Truth contain<g ref="char:EOLhyphen"/>ed herein would have ſaved thoſe Lives which have been loſt in War this Summer, and it would preſerve them for the time to come, if they will do accordingly.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
